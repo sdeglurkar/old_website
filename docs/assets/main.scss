@@ -1,7 +1,5 @@
-.site-title::before {
+.logo {
  	content: url("/emperor_penguin.png");
- 	display: inline-block;
- 	position: relative;
  	width: 37px;
  	top: 5px;
  }
