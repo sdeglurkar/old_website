@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-![Penguin logo](/assets/emperor_penguin.jpg)
+![Penguin logo](./docs/assets/emperor_penguin.jpg)
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
